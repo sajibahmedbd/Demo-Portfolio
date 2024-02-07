@@ -1,0 +1,42 @@
+.nd{
+    background-image: url("/img/header-bg.png");
+    background-position: center;
+    
+}
+
+.img1{
+ height: 700px;
+ background-position: center;
+ padding-top: 50px;
+ padding-bottom: 50px;
+
+}
+.mt-5{
+    padding-top: 180px;
+}
+.nd1{
+    background-image: url("/img/biography-bg.png");
+    background-position: center;
+}
+.nd2{
+    margin-top: 50px;
+}
+.latest-work{
+    margin-top: 40px;
+    margin-bottom: 40px ;
+}
+.pad{
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+.pad1{
+    background-image: url("/img/latest-work-bg.png");
+    background-position: center;
+}
+.bg-warning{
+   padding: 50px;
+}
+.pad2{
+    background-image: url("/img/footer-bg.png");
+    background-position: center;
+}
